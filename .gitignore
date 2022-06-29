@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+apis_env/
+*.pkl
+key.py
+__pycache__/
+pickles/
